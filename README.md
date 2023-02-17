@@ -1,5 +1,4 @@
-# password-manager
-A password manager is a software tool designed to securely store and manage login information for websites, applications, and other digital services. With a password manager, users can generate unique, complex passwords for each of their accounts, and store them in an encrypted database protected by a master password or other security features.
+# password manager is a software tool designed to securely store and manage login information for websites, applications, and other digital services. With a password manager, users can generate unique, complex passwords for each of their accounts, and store them in an encrypted database protected by a master password or other security features.
 
 Password managers offer a number of benefits, including:
 
